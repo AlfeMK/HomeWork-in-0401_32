@@ -1,0 +1,14 @@
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\1111410016_劉梓旋_032.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\1111410016_劉梓旋_032.AssemblyInfoInputs.cache
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\1111410016_劉梓旋_032.AssemblyInfo.cs
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\1111410016_劉梓旋_032.csproj.CoreCompileInputs.cache
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\bin\Debug\net8.0\1111410016_劉梓旋_032.exe
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\bin\Debug\net8.0\1111410016_劉梓旋_032.deps.json
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\bin\Debug\net8.0\1111410016_劉梓旋_032.runtimeconfig.json
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\bin\Debug\net8.0\1111410016_劉梓旋_032.dll
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\bin\Debug\net8.0\1111410016_劉梓旋_032.pdb
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\1111410016_劉梓旋_032.dll
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\refint\1111410016_劉梓旋_032.dll
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\1111410016_劉梓旋_032.pdb
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\1111410016_劉梓旋_032.genruntimeconfig.cache
+C:\Users\TowerLaptop\source\repos\1111410016_劉梓旋_032\1111410016_劉梓旋_032\obj\Debug\net8.0\ref\1111410016_劉梓旋_032.dll
